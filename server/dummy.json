@@ -1,0 +1,6 @@
+{
+  "user_list": [
+    { "id": 1, "name": "Tanaka", "age": 26 },
+    { "id": 2, "name": "Suzuki", "age": 32 }
+  ]
+}
